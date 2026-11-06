@@ -11,7 +11,7 @@ Having a passion for game development, programming, and just gaming in general, 
 ### 📫 Email: tropicaltisa@gmail.com
 ### ⛓️ [LinkedIn](https://www.linkedin.com/in/tristan-schonfeldt-aultman/)
 
-## [Checkout my Projects and Portfolio Here!](https://draginalo.github.io)
+### [Checkout my Projects and Portfolio Here!](https://draginalo.github.io)
 
 <!---
 TristanS-A/TristanS-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
